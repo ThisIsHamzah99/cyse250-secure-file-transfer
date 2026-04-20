@@ -1,0 +1,2 @@
+This is a sample file for the CYSE 250 secure file transfer project.
+The client will encrypt this file before sending it to the server.
