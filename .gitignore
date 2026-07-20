@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+certs/
+uploads/
+downloads/
+audit.jsonl
+users.json
+*.sft
+*.part
+
